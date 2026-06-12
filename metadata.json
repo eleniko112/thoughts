@@ -1,0 +1,8 @@
+{
+  "name": "Rate My Existential Crisis",
+  "description": "A dark humor community for sharing strange late-night thoughts and absurd philosophical realizations. Featuring AI-generated existential questions and a void-rating system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
